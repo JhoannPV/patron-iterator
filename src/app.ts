@@ -1,4 +1,4 @@
-import { patronIterator } from "./patrones-iterator";
+import { patronIterator } from "./patron-iterator";
 
 (() => {
     patronIterator();
