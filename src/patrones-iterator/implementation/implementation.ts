@@ -5,7 +5,7 @@ import { arraySinIterator } from "../version-array-sin-iterator";
 
 export const patronIterator = () => {
     // arraySinIterator();
-    arrayConIterator();
+    // arrayConIterator();
     // arbolSinIterator();
-    // arbolConIterator();
+    arbolConIterator();
 }
